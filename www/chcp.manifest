@@ -1,5 +1,9 @@
 [
   {
+    "file": "chcp-server.json",
+    "hash": "212da626a3e598c8656c4fb4033e6eda"
+  },
+  {
     "file": "css/index.css",
     "hash": "e46d9a1c456a9c913ca10f3c16d50000"
   },
@@ -9,7 +13,7 @@
   },
   {
     "file": "index.html",
-    "hash": "f1dc2761fb4e9af42b49185959594a78"
+    "hash": "db0c383d7b9d4e64c8da9506d48ea915"
   },
   {
     "file": "js/index.js",

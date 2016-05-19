@@ -1,4 +1,4 @@
 {
-  "content_url": "http://duangwifi.cn/TestProject/www",
-  "config_url": "http://duangwifi.cn/TestProject/www/chcp.json"
+  "content_url": "https://041e3330.ngrok.io",
+  "config_url": "https://041e3330.ngrok.io/chcp.json"
 }
